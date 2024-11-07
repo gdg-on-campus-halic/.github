@@ -1,6 +1,6 @@
 # GDG on Campus Haliç 🌐✨
 
-Welcome to community of **GDG on Campus Haliç**— for 2024-25 academic year; where technology, creativity, and collaboration collide! We're a community of enthusiastic students and developers who are passionate about Google technologies, building innovative projects, and learning together.
+Welcome to community of **GDG on Campus Haliç** for 2024-25 academic year; where technology, creativity, and collaboration collide! We're a community of enthusiastic students and developers who are passionate about Google technologies, building innovative projects, and learning together.
 
 ## Who Are We? 🤖💡
 
