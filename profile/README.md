@@ -1,4 +1,6 @@
-# GDG on Campus Haliç 🌐✨
+# 🌐 Google Developer Groups on Campus Haliç ✨
+
+![IMG_6973](https://github.com/user-attachments/assets/8589b83d-ba8c-4850-8a2c-1656a8c7a7c1)
 
 Welcome to community of **GDG on Campus Haliç** for 2024-25 academic year; where technology, creativity, and collaboration collide! We're a community of enthusiastic students and developers who are passionate about Google technologies, building innovative projects, and learning together.
 
